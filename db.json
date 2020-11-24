@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "bulb",
+      "hp": "10",
+      "sprites": {
+        "front": "sadfasdfa",
+        "back": "ghjkfghjf"
+      },
+      "id": 151
+    },
+    {
+      "name": "wafflewaldo",
+      "hp": "20",
+      "sprites": {
+        "front": "sadfasdfa",
+        "back": "fajkhfarr"
+      },
+      "id": 152
     }
   ]
 }
